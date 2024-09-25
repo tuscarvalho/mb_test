@@ -1,5 +1,9 @@
 # Vue 3(Composition API) + Vite
 
+## Node
+
+Versão do node utilizada v20.0.0;
+
 ## Descrição
 
 A proposta deste teste é criar um layout de cadastro de usuario para pessoa física e jurídica. 

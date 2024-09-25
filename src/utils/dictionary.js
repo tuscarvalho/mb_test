@@ -1,0 +1,10 @@
+export const emailValidationMessage = 'Digite um email válido! Ex: teste@teste.com';
+export const nameValidationMessage = 'Digite um nome válido!';
+export const cpfValidationMessage = 'Digite um cpf válido!';
+export const cnpjValidationMessage = 'Digite um cnpj válido!';
+export const birthValidationMessage = 'Digite uma data válida!';
+export const phoneValidationMessage = 'Digite um telefone válido!';
+export const passwordValidationMessage = 'Digite no mínimo 8 caractéres!';
+export const generalMessage = 'Verifique se todos os campos estão preenchidos corretamente!';
+export const createdUserMessage = 'Usuário cadastrado com sucesso!';
+export const errorCreatedUserMessage = 'Tente novamente em alguns intantes!';

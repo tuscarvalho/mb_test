@@ -36,8 +36,6 @@ npm install
 
 Run project:
 ```
-npm run dev:custom
+npm run dev:custom (Comando que rodará tanto o servidor node quanto a aplicação web;)
 ``` 
-Comando que rodará tanto o servidor node quanto a aplicação web;
-```
 
